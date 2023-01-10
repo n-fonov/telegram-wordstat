@@ -1,0 +1,6 @@
+cvBuilder\Main.class
+cvBuilder\TelegramMessages.class
+cvBuilder\TelegramMessages$TextEntity.class
+cvBuilder\TelegramMessages$InTextObject.class
+cvBuilder\TelegramMessages$Message.class
+cvBuilder\TelegramMessages$Text.class
